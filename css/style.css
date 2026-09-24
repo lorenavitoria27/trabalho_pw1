@@ -160,8 +160,6 @@
 
 /*** Carousel Start ***/
 .carousel-item {
-	width: 100%;
-	height: 2000px;
     position: relative;
     min-height: 100vh;
     
@@ -170,7 +168,7 @@
 .carousel-item img {
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 500px;
     object-fit: cover;
 }
 
