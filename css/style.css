@@ -168,13 +168,13 @@
 .carousel-item img {
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 50%;
     object-fit: cover;
 }
 
 .carousel-item .carousel-caption {
     width: 100%;
-    height: 100%;
+    height: 50%;
     position: absolute;
     top: 0;
     left: 0;
